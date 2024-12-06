@@ -36,7 +36,7 @@
 
 🔗 Connect With Me
 <div align="center">
-  <a href="www.linkedin.com/in/mohamad-alashhab" target="_blank">
+  <a href="https://linkedin.com/in/mohamad-alashhab-6a492b1ba" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.gg/Mohammad.tariq#0123" target="_blank">
