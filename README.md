@@ -36,14 +36,11 @@
 
 🔗 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/hamza-tal/" target="_blank">
+  <a href="www.linkedin.com/in/mohamad-alashhab-6a492b1ba" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/#1899" target="_blank">
+  <a href="https://discord.gg/#0123" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/hamzatal" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
@@ -55,9 +52,6 @@
 
 🔝 Top Contributed Repositories
 !Contributor Stats
-
-💰 Support My Work
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://paypal.me/HamzaTalJo)
 
 ---
 
