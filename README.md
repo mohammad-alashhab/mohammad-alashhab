@@ -4,7 +4,7 @@
 </div>
 
 🌟 About Me
-<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/61491d59e6e4c4d50ccd715624ce1dd161029076084d3biform.io/assets/images/giphy.webp" />
+
 
 🚀 Dedicated and results-driven web developer passionate about creating scalable, efficient, and user-friendly applications. Specializing in PHP, Laravel, and JavaScript with extensive back-end and front-end expertise.
 
