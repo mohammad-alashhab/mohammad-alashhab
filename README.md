@@ -1,88 +1,98 @@
-# 💥 Mohammad Al-Ashhab | Digital Alchemist 🚀
+# 👋 Mohammad Al-Ashhab | Full Stack Developer
 
-<!-- Futuristic Typing Animation -->
+<!-- Professional Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🌐+Web+Development+Maverick;🔬+Transforming+Ideas+into+Digital+Realities;✨+Crafting+Elegant+Solutions+with+Code" alt="Digital Alchemy Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C6BD8&center=true&width=800&lines=Full+Stack+Web+Developer;Computer+Science+Graduate;Laravel+%7C+React+%7C+ASP.NET+Specialist" alt="Professional Typing SVG" />
 </div>
 
-## 🌈 Professional Pulse
+## 🌟 Professional Profile
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=mohammad-alashhab&label=Profile+Views&color=blueviolet" alt="Profile Views"/>
-</div>
+Computer Science graduate from the University of Jordan, driven by challenges and passionate about creating innovative digital solutions. Committed to continuous learning and positive team collaboration.
 
-### 🎯 Mission Statement
-I'm not just a developer; I'm a digital architect transforming complex challenges into seamless, innovative solutions. My code is my canvas, and technology is my brush.
+## 🚀 Professional Experience
 
-## 💻 Tech Arsenal
+### Full Stack Web Development Bootcamp
+**Orange Coding Academy** | *09/2024 – Present*
+- Developed dynamic web applications using Laravel
+- Collaborated on front-end and back-end components
+- Optimized user experience through team-driven development
+
+### Software Development Internship
+**Estarta Solutions** | *09/2023 – 10/2023*
+- Focused on ASP.NET backend development
+- Gained practical experience in software development processes
+
+### Full Stack Asp.Net (MVC Core) Internship
+**Education For Employment Jordan (EFE)** | *05/2023 – 09/2023*
+- Implemented full-stack development projects
+- Trained at Princess Sumaya University for Technology
+
+## 🎓 Education
+
+**Bachelor's Degree in Computer Science**
+University of Jordan | *10/2019 – 06/2023*
+- Location: Amman, Jordan
+
+## 🔧 Technical Skills
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Tools & Practices
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🌈 Soft Skills
+
+- Time Management
+- Strong Communication
+- Attention to Detail
+- Fast Learning
+- Hard Working
+- Agile Methodology
+
+## 🌐 Languages
+
+- 🇯🇴 Arabic: Native Speaker
+- 🇬🇧 English: Good Proficiency
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,flutter,git,nodejs,wordpress,react,tailwind,docker&perline=7" alt="Tech Superpowers" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammad-alashhab&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-alashhab&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-## 🚀 Performance Metrics
+## 🔗 Connect With Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammad-alashhab&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-alashhab&theme=radical&hide_border=false&include_all_commits=true&layout=compact"/>
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-alashhab&theme=radical" alt="Coding Streak Magic"/>
-</div>
-
-## 🔬 Technology Exploration Zones
-
-- 🌐 **Web Evolution:** Pioneering next-gen web architectures
-- 🤖 **AI Frontier:** Integrating intelligent systems
-- 🚀 **Cloud Dynamics:** Mastering scalable infrastructure
-- 🔒 **Security Paradigm:** Fortifying digital ecosystems
-
-## 🛠 Technological Constellation
-
-| Domain | Technologies |
-|--------|--------------|
-| 🖥️ **Backend** | PHP, Laravel, Node.js, REST APIs |
-| 🎨 **Frontend** | HTML5, CSS3, JavaScript, React, Tailwind |
-| 📱 **Mobile** | Flutter, Responsive Design |
-| 💾 **Databases** | MySQL, PostgreSQL, MongoDB |
-| 🔧 **DevOps** | Docker, Git, GitHub Actions |
-| 🛠 **Tools** | Composer, npm, Webpack, Postman |
-
-## 🌟 Professional Constellation
-
-<div align="center">
+  <a href="mailto:moh.t.alashhab@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/mohamad-alashhab-6a492b1ba" target="_blank">
-    <img alt="LinkedIn Orbit" src="https://img.shields.io/badge/LinkedIn-Quantum_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/Mohammad.tariq#0123" target="_blank">
-    <img alt="Discord Realm" src="https://img.shields.io/badge/Discord-Digital_Sanctuary-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</div>
-
-## 💡 Code Philosophy
-
-> "In the universe of technology, code is not just syntax; it's poetry waiting to be written." - Mohammad Al-Ashhab
-
-## 🌠 Cosmic Contributions
-
-<!-- Dynamically showcase your top repositories or pinned projects -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammad-alashhab&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Cosmic Achievements"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Crafted with Passion"/>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
   <br>
-  <sub>🌍 Bridging Imagination and Innovation 🚀</sub>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Cosmic Footer"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohammad-alashhab" alt="Visitor Badge"/>
 </div>
