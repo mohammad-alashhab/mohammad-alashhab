@@ -2,7 +2,7 @@
 
 <!-- Professional Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C6BD8&center=true&width=800&lines=Full+Stack+Web+Developer;Computer+Science+Graduate;Laravel+%7C+React+%7C+ASP.NET+Specialist" alt="Professional Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C6BD8&center=true&width=800&lines=Full+Stack+Web+Developer;Computer+Science+Graduate;ASP.NET+%7C+React+%7C+Laravel+Specialist" alt="Professional Typing SVG" />
 </div>
 
 ## 🌟 Professional Profile
@@ -57,7 +57,7 @@ University of Jordan | *10/2019 – 06/2023*
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🌈 Soft Skills
+## ✨ Soft Skills
 
 - Time Management
 - Strong Communication
@@ -93,6 +93,4 @@ University of Jordan | *10/2019 – 06/2023*
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohammad-alashhab" alt="Visitor Badge"/>
 </div>
