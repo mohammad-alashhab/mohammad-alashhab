@@ -39,7 +39,7 @@
   <a href="www.linkedin.com/in/mohamad-alashhab-6a492b1ba" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/#0123" target="_blank">
+  <a href="https://discord.gg/Mohammad.tariq#0123" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
